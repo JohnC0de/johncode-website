@@ -1,34 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Here's an improved version of your `readme.md`:
 
-## Getting Started
+---
 
-First, run the development server:
+# John's Personal Portfolio
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+🌐 **Live Site**: [johncode.vercel.app](https://johncode.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Deployed with ❤️ on [Vercel](https://vercel.com/).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 About
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This personal portfolio is a showcase of my skills and projects as a Fullstack Developer with two years of experience. It's built with a powerful trio: [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/), and [TypeScript](https://www.typescriptlang.org/).
 
-## Learn More
+My plan is to keep this project updated with new features and improvements as I learn more about web development. I'm also open to suggestions and feedback, so feel free to reach out to me!
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✅ Light/Dark Mode Toggle
+- ✅ Font optimization with [next/font](https://nextjs.org/docs/basic-features/font-optimization)
+- ⏳ Responsive Design
+- ⏳ Blog Section: A space to share my thoughts and experiences
+- ⏳ Projects Section: A closer look at my work
+- ⏳ About Section: Dive into my story
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🛠 Development
 
-## Deploy on Vercel
+I'm currently using `pnpm` as my package manager, but you're free to use your preferred option.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository
+2. Install the dependencies using `pnpm i`
+3. Start the development server with `pnpm dev`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+🔗 [http://localhost:3000](http://localhost:3000) will be your local development environment.
+
+Note: This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to auto-optimize and serve the Inter font from Google Fonts.
+
+## 🤖 About John
+
+Hello there! I'm a zealous self-taught developer pursuing Computer Science at IBMR University in Brazil. Technology fuels my passion, pushing me to always be on the lookout for the next big thing to learn and master. While web development remains my forte, I'm also captivated by mobile development and game design. I'm fervently seeking job opportunities where I can bring my dedication and expertise to the table.
+
+**Contact Me**
+
+- 📧 My professional e-mail: [joaocarloscode@gmail.com](mailto:joaocarloscode@gmail.com)
+
+---
